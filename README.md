@@ -1,6 +1,6 @@
 # Textual Inversion through Stable Diffusion
 
-Partner from ERAV1: Madhur Prakash Garg
+Partner from ERAV1: Rashi Agarwal
 
 ## Hugging Face Demo
 
