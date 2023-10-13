@@ -4,7 +4,7 @@ Partner from ERAV1: Rashi Agarwal
 
 ## Hugging Face Demo
 
-#### https://huggingface.co/spaces/RashiAgarwal/GenerativeArt_StableDiffusion
+#### https://huggingface.co/spaces/MadhurGarg/GenerativeArt_StableDiffusion
 
 ## Prompt: an oil painting of a god
 
